@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,50:875A7B,100:212529&height=240&section=header&text=Ahmed%20Moheb%20Mahmoud&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Solution%20Architect%20%7C%20ERP%20Strategist%20%7C%20Automation%20Lead&descSize=18&descAlignY=55&descColor=efefef" width="100%" />
 
   <a href="https://github.com/AhmedMohebM">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=875A7B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Architecting+Scalable+ERP+Ecosystems;Mastering+n8n+%26+Workflow+Automation;Transforming+Business+Logic+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=875A7B&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Architecting+Scalable+ERP+Ecosystems;Mastering+N8N+%26+Workflow+Automation;Transforming+Business+Logic+into+Code" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -87,8 +87,6 @@
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedMohebM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohebM&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohebM&theme=tokyonight&hide_border=true" />
 </div>
@@ -99,15 +97,15 @@
 
 <div align="center">
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:mr.ahmedmoheb@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/engahmedmoheb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://wa.me/your-number">
+  <a href="https://wa.me/+966541843057">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
